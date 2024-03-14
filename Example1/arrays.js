@@ -1,23 +1,23 @@
-//-----------------------Create Array---------------------------//
+//1.1-----------------------Create Array---------------------------//
 // const jsd = ["James","Kan","Mean","Lak","Folk","Wee"];
 // console.log (jsd); 
 
-//--------------------------Access Array----------------------//
+//1.2--------------------------Access Array----------------------//
 // const jsd = ["James","Kan","Mean","Lak","Folk","Wee"];
 // console.log (jsd[1]); 
 
-//---------------------------Modifying Array-------------------//
+//1.3---------------------------Modifying Array-------------------//
 // const jsd = ["James","Kan","Mean","Lak","Folk","Wee"];
 // console.log (jsd); 
 
 // jsd[3] = 99;
 // console.log(jsd)
 
-//----------------------------Length---------------------------//
+//1.4----------------------------Length---------------------------//
 // const jsd = ["James","Kan","Mean","Lak","Folk","Wee"];
 // console.log (jsd.length);
 
-//----------------------------forEach----------------------//
+//1.5----------------------------forEach----------------------//
 const jsd = ["James","Kan","Mean","Lak","Folk","Wee"];
 console.log(jsd);
 
